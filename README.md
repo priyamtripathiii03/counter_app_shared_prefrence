@@ -1,16 +1,24 @@
-# counter_app_shared_prefrence
+# Chanting App 🧘‍♂️📱
 
-A new Flutter project.
+Elevate your spiritual practice with our Chanting Counting App! 🕉️✨
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Features:
 
-A few resources to get you started if this is your first Flutter project:
+- Easy Counting: Track your chants effortlessly with a user-friendly counter. 🔢
+- Share Preferences: Customize and share your chanting preferences with friends! 📤👫
+- Daily Reminders: Stay consistent with personalized reminders. ⏰
+- Beautiful Themes: Choose from serene themes to enhance your experience. 🎨🌌
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Whether you're meditating, practicing yoga, or simply looking to connect, our app supports your journey. Download now and start counting your blessings! 🌟🙏
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+<p>
+  <img src="https://github.com/user-attachments/assets/5902d6e4-0919-4cd2-a639-6956e2f1dec0" width="22%">
+
+  </p>
+
+  
