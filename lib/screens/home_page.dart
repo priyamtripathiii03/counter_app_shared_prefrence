@@ -29,12 +29,17 @@ class HomePage extends StatelessWidget {
                         .addition();
                   },
                   child: Container(
-                    height: 100,
-                    width: 100,
+                    height: 150,
+                    width: 200,
                     decoration: BoxDecoration(
                         color: Colors.black54,
                         shape: BoxShape.circle,
-                        boxShadow: [BoxShadow(color: Colors.grey.shade800,spreadRadius: 5,blurRadius: 15)]),
+                        boxShadow: [
+                          BoxShadow(
+                              color: Colors.grey.shade800,
+                              spreadRadius: 5,
+                              blurRadius: 15)
+                        ]),
                     child: Center(
                       child: Text(
                         Provider.of<HomeProvider>(context, listen: true)
