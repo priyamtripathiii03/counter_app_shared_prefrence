@@ -17,7 +17,7 @@ Whether you're meditating, practicing yoga, or simply looking to connect, our ap
 
 
 <p>
-  <img src="https://github.com/user-attachments/assets/5902d6e4-0919-4cd2-a639-6956e2f1dec0" width="22%">
+  <img src="https://github.com/user-attachments/assets/ac8aaa2e-e19c-4239-be8f-46261e8cc801" width="22%">
 
   </p>
 
