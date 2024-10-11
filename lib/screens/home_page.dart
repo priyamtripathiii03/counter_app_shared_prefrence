@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
 import '../provider/home_provider.dart';
 
 class HomePage extends StatelessWidget {
@@ -61,6 +60,16 @@ class HomePage extends StatelessWidget {
       floatingActionButton: Column(
         mainAxisAlignment: MainAxisAlignment.end,
         children: [
+          FloatingActionButton(
+            backgroundColor: Colors.blue.shade500,
+            onPressed: () {
+
+            },
+            child: const Icon(Icons.photo),
+          ),
+          const SizedBox(
+            height: 10,
+          ),
           FloatingActionButton(
             backgroundColor: Colors.lightBlue,
             onPressed: () {
